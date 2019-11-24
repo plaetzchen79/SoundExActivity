@@ -1,5 +1,8 @@
 C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\bin\Release\SoundExActivity.dll
 C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\bin\Release\SoundExActivity.pdb
-C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\obj\Release\SoundExActivity.csprojAssemblyReference.cache
 C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\obj\Release\SoundExActivity.dll
 C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\obj\Release\SoundExActivity.pdb
+C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\obj\Release\SoundExActivity.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\bin\Release\System.Activities.dll
+C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\bin\Release\System.ComponentModel.Composition.dll
+C:\Users\Andre\source\repos\SoundExActivity\SoundExActivity\obj\Release\SoundExActivity.csproj.CopyComplete
